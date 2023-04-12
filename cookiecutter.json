@@ -5,9 +5,7 @@
   "project_version": "0.0.1",
   "project_description": "This is my click command-line app project.",
   "python_version": [
-    "3.6",
-    "3.7",
-    "3.8"
+    "3.11"
   ],
   "virtualenv": [
     "virtualenv",
